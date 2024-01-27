@@ -1,4 +1,4 @@
-# Sentiment-Analysis-ML-Flask-App
+# Sentiment-Analysis-Flask-App
 
 A machine learning end to end flask web app for sentiment analysis model created using Python with Flask along with a module from Python library called, Natural language processing (NLTK) module .
 
